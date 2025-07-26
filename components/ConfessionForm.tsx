@@ -24,7 +24,7 @@ export default function ConfessionForm () {
                     setMessage(e.target.value)
                 }}
                 placeholder="Tell me a secret"
-                className="w-full h-40 p-2 border rounded"
+                className="w-full h-40 p-2 border rounded text-white"
                 required
             />
             <Button
